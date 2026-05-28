@@ -1,0 +1,10 @@
+torch
+transformers
+datasets
+flash-attn
+numpy
+tqdm
+cvxpy
+typing_extensions
+ninja
+einops
