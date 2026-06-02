@@ -1,6 +1,6 @@
 # CaDDTree: Cost-Aware Diffusion Draft Trees for Speculative Decoding
 
-Official implementation of **CaDDTree**.
+Official implementation of **CaDDTree** ([arXiv:2606.01813](https://arxiv.org/abs/2606.01813)).
 
 CaDDTree accelerates LLM inference by selecting the throughput-optimal draft tree budget for each decoding round via a provably efficient greedy algorithm, with no additional training.
 
